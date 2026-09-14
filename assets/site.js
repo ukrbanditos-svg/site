@@ -1,0 +1,4 @@
+
+const $=s=>document.querySelector(s);const $$=s=>[...document.querySelectorAll(s)];
+const q=$('#search');if(q){const run=()=>{const v=q.value.trim().toLowerCase();let n=0;$$('[data-search]').forEach(c=>{const ok=!v||c.dataset.search.includes(v);c.classList.toggle('hidden',!ok);if(ok)n++});$('#empty')?.classList.toggle('show',n===0);const u=new URL(location.href);v?u.searchParams.set('q',q.value.trim()):u.searchParams.delete('q');history.replaceState(null,'',u)};const initial=new URL(location.href).searchParams.get('q');if(initial){q.value=initial;run()}q.addEventListener('input',run)}
+$$('[data-copy]').forEach(b=>b.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);const t=$('#toast');t?.classList.add('show');setTimeout(()=>t?.classList.remove('show'),1700)}catch(e){}}));

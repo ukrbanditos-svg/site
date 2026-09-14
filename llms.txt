@@ -1,0 +1,9 @@
+# Dey6 — Русификаторы визуальных новелл
+
+Официальный каталог страниц русских переводов Dey6.
+
+- Главная: /
+- RSS: /rss.xml
+- Sitemap: /sitemap.xml
+- Boosty: https://boosty.to/dey_6
+- Telegram: https://t.me/dey6tran
