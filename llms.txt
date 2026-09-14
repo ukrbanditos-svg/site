@@ -1,9 +1,15 @@
-# Dey6 — Русификаторы визуальных новелл
+# Dey6
+> Каталог русификаторов и переводов визуальных новелл на русский язык.
 
-Официальный каталог страниц русских переводов Dey6.
+## Основные страницы
+- https://dey6.online/ — главная страница каталога
+- https://dey6.online/perevody-vizualnyh-novell/ — переводы визуальных новелл
+- https://dey6.online/rusifikatory-vizualnyh-novell/ — русификаторы visual novel
+- https://dey6.online/kak-ustanovit-rusifikator/ — как установить русификатор
+- https://dey6.online/faq/ — FAQ
 
-- Главная: /
-- RSS: /rss.xml
-- Sitemap: /sitemap.xml
-- Boosty: https://boosty.to/dey_6
-- Telegram: https://t.me/dey6tran
+## Что есть на сайте
+- отдельные страницы переводов и русификаторов для конкретных игр
+- инструкции по установке
+- ссылки на Boosty и Telegram автора
+- каталог переводов Visual Novel
