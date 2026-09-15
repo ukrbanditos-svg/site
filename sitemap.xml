@@ -96,4 +96,10 @@
 <changefreq>weekly</changefreq>
 <priority>0.85</priority>
 </url>
+<url>
+<loc>https://dey6.online/privacy/</loc>
+<lastmod>2026-09-14</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
 </urlset>
